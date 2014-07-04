@@ -114,7 +114,7 @@ Web Starter Kit is inspired by [Mobile HTML5 Boilerplate](http://html5boilerplat
 
 Contributions, questions and comments are all welcome and encouraged. For code contributions to Web Starter Kit, please see our [Contribution guide](CONTRIBUTING.md) before submitting a pull request. [Website](https://developers.google.com/web/starter-kit/) related issues should be filed on the [Web Fundamentals](https://github.com/google/WebFundamentals/issues/new) issue tracker.
 
-## License
+## License Information
 
 Apache 2.0  
 Copyright 2014 Google Inc
